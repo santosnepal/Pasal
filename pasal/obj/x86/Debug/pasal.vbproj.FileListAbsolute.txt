@@ -1,0 +1,13 @@
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\bin\Debug\pasal.exe
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\bin\Debug\pasal.pdb
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\bin\Debug\pasal.xml
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.Login.resources
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.Resources.resources
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.vbproj.GenerateResource.Cache
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.exe
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.xml
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.pdb
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.main.resources
+C:\Users\Santosh\documents\visual studio 2010\Projects\pasal\pasal\bin\Debug\pasal.exe.config
+C:\Users\Santosh\Documents\Visual Studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.upd.resources
+C:\Users\Santosh\Documents\Visual Studio 2010\Projects\pasal\pasal\obj\x86\Debug\pasal.das.resources
